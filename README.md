@@ -17,3 +17,4 @@ The dashboard pages are interactive. Here's how you can make the most of them:
 -	Series Focus: by clicking on an individual time series on a chart, it will change the dashboard page to show that series specifically. This can also be done by clicking the colored circles in the legend at the top of respective charts.
 c. Exporting: In the Power BI application under "File" and "Export" in the top left menu, the dashboard can be exported as a merged PDF file. Note that the current views set by the user for all the dashboard pages are what will be exported and shown in the merged PDF file. The dashboard can also be published on PowerBI service and viewed through the web. 
 
+![Uploading image.png…]()
