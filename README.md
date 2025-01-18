@@ -16,4 +16,4 @@ The dashboard pages are interactive. Here's how you can make the most of them:
 -	Multiple Selection: For tabs that have multiple selection cards, such as the "Refining Production" tab, click the dropdown menu and hold Ctrl + click to select multiple time series sets to view. For example, Ctrl + click multiple countries in the "Refining Production" tab to have their refining runs and maintenance schedules plotted on both charts.
 -	Series Focus: by clicking on an individual time series on a chart, it will change the dashboard page to show that series specifically. This can also be done by clicking the colored circles in the legend at the top of respective charts.
 c. Exporting: In the Power BI application under "File" and "Export" in the top left menu, the dashboard can be exported as a merged PDF file. Note that the current views set by the user for all the dashboard pages are what will be exported and shown in the merged PDF file. The dashboard can also be published on PowerBI service and viewed through the web. 
-![image](https://github.com/user-attachments/assets/6db214f4-aadb-40bc-bf5b-54aef2fc0e47)
+
